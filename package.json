@@ -1,0 +1,19 @@
+{
+  "name": "module18",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.4",
+    "mongoose": "^7.0.2"
+},
+"devDependencies": {
+    "nodemon": "^2.0.9"
+}
+}
